@@ -22,10 +22,10 @@ FreshBite is a responsive online food ordering website developed using HTML, CSS
 - JavaScript
 
 ## 👨‍💻 Developed By
-Your Name
+Jaiwarsha Samivel
 
 ## 🌐 Live Website
-(Add Netlify Link Here)
+https://warsha1116.github.io/FreshBite/
 
 ## 📂 GitHub Repository
-(Add GitHub Repository Link Here)
+https://github.com/warsha1116/FreshBite
